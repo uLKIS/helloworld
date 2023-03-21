@@ -14,6 +14,22 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: uLKIS
+
+navbar-links:
+  Home: ""
+  Modules: "modules"
+  About: "about"
+#  Partner:
+#    - ITS: "its"
+#    - L3S: "l3s"
+#    - Kinexon: "kinexon"
+
+
+# If you want to have an image logo in the top-left corner instead of having the title of the website,
+# then specify the following parameter
+#title-img: "/assets/img/mm4spa_full.svg"
+
+
 email: maxklemp92@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   uLKIS is a BMBF-funded project, carried out at German Sport University Cologne, 
