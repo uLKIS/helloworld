@@ -24,6 +24,12 @@ navbar-links:
 #    - L3S: "l3s"
 #    - Kinexon: "kinexon"
 
+header_pages:
+  - index.md
+  - modules.md
+  - about.md
+  - board.md
+
 
 # If you want to have an image logo in the top-left corner instead of having the title of the website,
 # then specify the following parameter
