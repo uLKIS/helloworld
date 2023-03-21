@@ -1,6 +1,11 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
+title: Home
 
 layout: home
+order: 1
 ---
+
+# uLKIS - universitäres Lehrkonzept für KI in den Sportwissenschaften
+## uLKIS - a university teaching concept für AI in the sports sciences
+
+uLKIS is a BMBF-funded ...
