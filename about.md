@@ -13,6 +13,8 @@ The project team is introduced below.
 Supervisor
 
 # Maximilian Klemp
+github maxk92
+google_scholar https://scholar.google.de/citations?user=d8hkdv8AAAAJ&hl=de
 
 # Marc Garnica Caparrós
 
